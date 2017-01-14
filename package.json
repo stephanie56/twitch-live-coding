@@ -1,0 +1,28 @@
+{
+  "name": "twitch-live-coding",
+  "version": "0.0.0",
+  "description": "A twitch api of live coding folks I'm following.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephanie56/twitch-live-coding.git"
+  },
+  "keywords": [
+    "twitch",
+    "api",
+    "javascript"
+  ],
+  "author": "Stephanie Zeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephanie56/twitch-live-coding/issues"
+  },
+  "homepage": "https://github.com/stephanie56/twitch-live-coding#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
